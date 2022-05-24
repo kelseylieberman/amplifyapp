@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.colorful-button {
+  background: rebeccapurple;
+}
+.colorful-button:hover {
+  background: rgb(79, 24, 84);
+}
